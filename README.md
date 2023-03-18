@@ -127,10 +127,11 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="Gelson-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Gelson" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Gelson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"><img align="center" alt="Gelson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"><img align="center" alt="Gelson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="max-width: 100%;">
+            </a>
 
 </div>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/gellmesquita/gellmesquita/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/gellmesquita/gellmesquita/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
+
  <br/>
 
 I am passionate about technology and I seek every day to improve and learn about new sources in this ever-changing world.
