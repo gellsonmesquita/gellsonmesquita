@@ -14,7 +14,8 @@
 - 💬 Ask me about javascript, vuejs and any general programming question.
 
 - 📫 How to reach me iamgelson@gmail.com
-
+###
+I am passionate about technology and I seek every day to improve and learn about new sources in this ever-changing world.
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=compact&show_icons=true&theme=radical&layout?=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -131,8 +132,7 @@
             </a>
 
 </div>
-
+ <br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gellmesquita&bg_color=2b2629&color=cc1ec1&line=3017ab&point=1f1f1f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  <br/>
 
-I am passionate about technology and I seek every day to improve and learn about new sources in this ever-changing world.
