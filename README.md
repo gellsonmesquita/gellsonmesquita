@@ -19,7 +19,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=compact&show_icons=true&theme=radical&layout?=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
-<p align="left" dir="auto"> <a href="https://www.blender.org/" rel="nofollow"><img
+<p align="left" dir="auto">
+            <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><img align="center" alt="Gelson Mesquita" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><img align="center" alt="Gelson Mesquita" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="Gelson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Gelson" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Gelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"><img align="center" alt="Gelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="max-width: 100%;"></a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"><img align="center" alt="Gelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="max-width: 100%;"></a>
+            <a href="https://www.blender.org/" rel="nofollow"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a>
     <a href="https://www.chartjs.org" rel="nofollow"> <img
@@ -123,5 +131,15 @@
 </p>
 <br />
  <br/>
+ <div dir="auto">
+
+    <p dir="auto">
+        <a target="_blank" rel="noopener noreferrer"
+            href="https://github.com/gellmesquita/gellmesquita/blob/output/github-contribution-grid-snake.svg"><img
+                src="https://github.com/gellmesquita/gellmesquita/raw/output/github-contribution-grid-snake.svg"
+                alt="Snake animation" style="max-width: 100%;">
+        </a>
+    </p>
+</div>
 
 I am passionate about technology and I seek every day to improve and learn about new sources in this ever-changing world.
