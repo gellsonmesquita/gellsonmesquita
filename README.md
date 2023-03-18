@@ -132,7 +132,5 @@ I am passionate about technology and I seek every day to improve and learn about
             </a>
 
 </div>
-###
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gellmesquita&bg_color=2b2629&color=cc1ec1&line=3017ab&point=1f1f1f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  <br/>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gellmesquita&bg_color=2b2629&color=cc1ec1&line=3017ab&point=1f1f1f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
