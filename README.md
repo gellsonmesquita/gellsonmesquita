@@ -15,8 +15,6 @@
 
 - 📫 How to reach me iamgelson@gmail.com
 ###
-I am passionate about technology and I seek every day to improve and learn about new sources in this ever-changing world.
-###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=compact&show_icons=true&theme=radical&layout?=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
@@ -134,4 +132,4 @@ I am passionate about technology and I seek every day to improve and learn about
 </div>
 
  <br/>
-
+I am passionate about technology and I seek every day to improve and learn about new sources in this ever-changing world.
