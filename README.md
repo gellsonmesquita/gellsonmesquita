@@ -31,9 +31,7 @@
         <img src="https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667"
             alt="dart" width="40" height="40"
             data-canonical-src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="max-width: 100%;">
-    </a> <a href="https://dotnet.microsoft.com/" rel="nofollow"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-            alt="dotnet" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.electronjs.org"
+    </a>  <a href="https://www.electronjs.org"
         rel="nofollow"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
             alt="electron" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://expressjs.com"
