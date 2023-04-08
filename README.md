@@ -24,10 +24,7 @@
     <a href="https://www.chartjs.org" rel="nofollow"> <img
             src="https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667"
             alt="chartjs" width="40" height="40" data-canonical-src="https://www.chartjs.org/media/logo-title.svg"
-            style="max-width: 100%;"> </a> <a href="https://www.w3schools.com/cs/" rel="nofollow"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" style="max-width: 100%;">
-    </a>
+            style="max-width: 100%;"> </a> 
     <a href="https://www.w3schools.com/css/" rel="nofollow"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://dart.dev" rel="nofollow">
@@ -106,10 +103,7 @@
             src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667"
             alt="sqlite" width="40" height="40"
             data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="max-width: 100%;"> </a>
-    <a href="https://vuejs.org/" rel="nofollow"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-            alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://vuepress.vuejs.org/"
-        rel="nofollow"> </a> <a href="https://www.adobe.com/products/xd.html" rel="nofollow"> <img
+    <a href="https://vuejs.org/" rel="nofollow">  </a> <a href="https://www.adobe.com/products/xd.html" rel="nofollow"> <img
             src="https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667"
             alt="xd" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
             style="max-width: 100%;"> </a>
