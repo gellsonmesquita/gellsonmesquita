@@ -109,13 +109,7 @@
     <a href="https://vuejs.org/" rel="nofollow"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
             alt="vuejs" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://vuepress.vuejs.org/"
-        rel="nofollow"> <img
-            src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg"
-            alt="vuepress" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://vuetifyjs.com/en/"
-        rel="nofollow"> <img
-            src="https://camo.githubusercontent.com/1f0458b532115b35288c1d92064eacf4fed093dff18bed7ede498bdfe42f6d06/68747470733a2f2f626573746f666a732e6f72672f6c6f676f732f767565746966792e737667"
-            alt="vuetify" width="40" height="40" data-canonical-src="https://bestofjs.org/logos/vuetify.svg"
-            style="max-width: 100%;"> </a> <a href="https://www.adobe.com/products/xd.html" rel="nofollow"> <img
+        rel="nofollow"> </a> <a href="https://www.adobe.com/products/xd.html" rel="nofollow"> <img
             src="https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667"
             alt="xd" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
             style="max-width: 100%;"> </a>
@@ -126,8 +120,7 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"><img align="center" alt="Gelson-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Gelson" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Gelson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"><img align="center" alt="Gelson-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="max-width: 100%;">
-            </a>
+
 
 </div>
 
