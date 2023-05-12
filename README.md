@@ -66,12 +66,10 @@
 <div>
 
   ## 📊 &nbsp;My activities
-  <a href="https://github.com/gellmesquita">
-    <img width=450 height=170 align="center" alt="IsaacIsvaldo" src="https://github-readme-stats.vercel.app/api?username=gellmesquita&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/gellmesquita">
-    <img align="center" alt="gellmesquita" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellmesquita&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gellmesquita&show_icons=true&theme=radical)
+
+ 
+
 </div>
 
 <div>
