@@ -1,6 +1,4 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto">
-<br>
-<br>
 <div align="center" dir="auto">
 <h1 dir="auto"><code>FullStack & Mobile Developer</code>
 <br></h1>
