@@ -2,7 +2,7 @@
 <br>
 <br>
 <div align="center" dir="auto">
-<h1 dir="auto"><code>FullStack & Mobile Developer</h1>
+<p dir="auto"><code>FullStack & Mobile Developer</code>
 <br></p>
 <p dir="auto"><code>=========================</code>
 <br></p>
