@@ -1,5 +1,4 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto">
-     
 <br>
 <br>
 <div align="center" dir="auto">
@@ -9,6 +8,24 @@
 <br></p>
 <p dir="auto"><code>¯\_(ツ)_/¯</code></p>
 </div>
+<h3 align="center" dir="auto"><a id="user-content-a-developer-passionate-about-programming" class="anchor" aria-hidden="true" href="#a-developer-passionate-about-programming"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>A developer passionate about programming</h3>
+<ul dir="auto">
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on Opensource projects</p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> All of my projects are available here on my GH account.</p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>javascript, Dart(Flutter)  and any general programming question.</strong></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:iamgelson@gmail.com">iamgelson@gmail.com</a></strong></p>
+</li>
+<li>
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5a28e768bc4f810087bd346b25dbcbb9225e53e7f43cb3a7242a54a1d56abbf2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c756b3364266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/5a28e768bc4f810087bd346b25dbcbb9225e53e7f43cb3a7242a54a1d56abbf2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6c756b3364266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="luk3d" data-canonical-src="https://komarev.com/ghpvc/?username=luk3d&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+</li>
+</ul>
 <div dir="auto">
 <h2 dir="auto"><a id="user-content--currently-studying" class="anchor" aria-hidden="true" href="#-currently-studying"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> &nbsp;Currently studying</h2>
 <ul dir="auto">
