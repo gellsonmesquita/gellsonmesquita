@@ -58,16 +58,16 @@
 </div>
   
   <div style="width: 100%; display: flex; flex-direction: row;justify-content: space-between;">
-  
+    <div dir="auto">
         <a href="https://github.com/gellmesquita">
             <img height="170" style="display:inline-block, width:50%" alt="gellmesquita" src="https://github-readme-stats.vercel.app/api?username=gellmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=gellmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" style="display:inline-block">
         </a>
-     
-   
+    </div>  
+    <div style="auto">
         <a href="https://github.com/gellmesquita">
             <img height="170"  style="display:inline-block, width:50%" alt="gellmesquita" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellmesquita&amp;theme=midnight-purple&amp;layout=compact&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellmesquita&amp;theme=midnight-purple&amp;layout=compact&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" style="display:inline-block">
         </a>
-   
+    </div>
   </div>
 <div dir="auto">
 <h2 dir="auto"><a id="user-content--my-contacts" class="anchor" aria-hidden="true" href="#-my-contacts"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> &nbsp;My Contacts</h2>
