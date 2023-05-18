@@ -58,12 +58,12 @@
 </div>
   
   <div style="width: 100%; display: flex; flex-direction: row;justify-content: space-between;">
-    <div dir="auto">
+    <div>
         <a href="https://github.com/gellmesquita">
             <img height="170" style="display:inline-block, width:50%" alt="gellmesquita" src="https://github-readme-stats.vercel.app/api?username=gellmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=gellmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" style="display:inline-block">
         </a>
     </div>  
-    <div style="auto">
+    <div>
         <a href="https://github.com/gellmesquita">
             <img height="170"  style="display:inline-block, width:50%" alt="gellmesquita" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellmesquita&amp;theme=midnight-purple&amp;layout=compact&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellmesquita&amp;theme=midnight-purple&amp;layout=compact&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" style="display:inline-block">
         </a>
