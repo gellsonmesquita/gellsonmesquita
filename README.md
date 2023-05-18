@@ -58,9 +58,9 @@
 </div>
   
   <div style="width: 100%; display: flex; flex-direction: row;justify-content: space-between;">
-    <div style="width:2px">
+    <div style="">
         <a href="https://github.com/gellmesquita">
-            <img height="170" align="center" alt="gellmesquita" src="https://github-readme-stats.vercel.app/api?username=gellmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=gellmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" style="display:inline-block">
+            <img height="10" align="center" alt="gellmesquita" src="https://github-readme-stats.vercel.app/api?username=gellmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=gellmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" style="display:inline-block">
         </a>
     </div>  
     <div style="">
