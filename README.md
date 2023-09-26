@@ -1,6 +1,6 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto">
 <div align="center" dir="auto">
-<h1 dir="auto"><code>FullStack & Mobile Developer</code>
+<h1 dir="auto"><code>FullStack developer</code>
 <br></h1>
 <p dir="auto"><code>=========================</code>
 <br></p>
@@ -34,6 +34,8 @@
 <li>Flutter.</li>
 <li>Clean architecture.</li>
 <li>MVVM.</li>
+<li>Java</li>
+<li>Kotlin</li>
 </ul>
 </div>
 <div dir="auto">
