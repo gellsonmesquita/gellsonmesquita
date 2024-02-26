@@ -34,9 +34,10 @@
 <li>Angular.</li>
 <li>React native</li>
 <li>Dart (Flutter).</li>
+<li>Kotlin</li>
 <li>Java</li>
 <li>Spring</li>
-<li>Kotlin</li>
+<li>Node js</li>
 </ul>
 </div>
 <div dir="auto">
