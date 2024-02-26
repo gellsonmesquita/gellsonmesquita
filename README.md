@@ -15,7 +15,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> All of my projects are available here on my GH account.</p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>javascript, Dart(Flutter)  and any general programming question.</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>javascript, Dart(Flutter), Java, Kotlin, Node js   and any general programming question.</strong></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:iamgelson@gmail.com">iamgelson@gmail.com</a></strong></p>
