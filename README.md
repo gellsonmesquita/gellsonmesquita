@@ -1,6 +1,6 @@
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto">
 <div align="center" dir="auto">
-<h1 dir="auto"><code>FullStack developer</code>
+<h1 dir="auto"><code>Software developer</code>
 <br></h1>
 <p dir="auto"><code>=========================</code>
 <br></p>
