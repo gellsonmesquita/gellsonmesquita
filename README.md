@@ -72,9 +72,6 @@
   </a>
 </p>
 
-<!--div dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
-</div-->
 
 <hr>
 </div></article>
