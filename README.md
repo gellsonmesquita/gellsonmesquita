@@ -65,9 +65,11 @@
   <a href="https://www.facebook.com/iamgellson" rel="nofollow">
     <img alt="Gelson Mesquita" src="https://camo.githubusercontent.com/b05ce6ca7d89b1cbc6218a93d62458d67439dc241c2158d1b4602d27466f7e2c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d66616365626f6f6b2d626c75653f7374796c653d666c61742d636972636c65266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e66616365626f6f6b2e636f6d2f7061756c6f646f706f737465722e706f737465722e31" data-canonical-src="https://img.shields.io/badge/-facebook-blue?style=flat-circle&amp;logo=Facebook&amp;logoColor=white&amp;link=https://www.facebook.com/iamgellson" style="max-width: 100%;">
   </a>
+  
   <a href="https://www.linkedin.com/in/gelson-mesquita-707125218/?originalSubdomain=ao" rel="nofollow">
     <img alt="Gelson Mesquita" src="https://camo.githubusercontent.com/01c4f143798a4392c1126a3887c366bbf9f34389cab0f84014af94f092746542/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d636972636c65266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7061756c6f2d6c6f7065732d65737465762543332541336f2d3761373038383162342f" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/gelson-mesquita-707125218/?originalSubdomain=ao" style="max-width: 100%;">
   </a>
+  
   <a href="mailto:iamgelson@gmail.com">
     <img alt="Gelson Mesquita" src="https://camo.githubusercontent.com/90465365f4bae1a81429be1f498b442d5f1c83fca196996f68074c3d08120726/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d6331343433383f7374796c653d666c61742d636972636c65266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a706c3137343532343040676d61696c2e636f6d" data-canonical-src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:iamgelson@gmial.com" style="max-width: 100%;">
   </a>
