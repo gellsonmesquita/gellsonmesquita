@@ -21,7 +21,7 @@
 <p dir="auto"><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:iamgelson@gmail.com">iamgelson@gmail.com</a></strong></p>
 </li>
 <li>
-<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=gellmesquita&amp;label=Profile%20views&amp;color=0e75b6&amp;style=fla"><img src="https://komarev.com/ghpvc/?username=gellmesquita&amp;label=Profile%20views&amp;color=0e75b6&amp;style=fla" alt="luk3d" data-canonical-src="https://komarev.com/ghpvc/?username=gellmesquita&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://komarev.com/ghpvc/?username=gellsonmesquita&amp;label=Profile%20views&amp;color=0e75b6&amp;style=fla"><img src="https://komarev.com/ghpvc/?username=gellsonmesquita&amp;label=Profile%20views&amp;color=0e75b6&amp;style=fla" alt="luk3d" data-canonical-src="https://komarev.com/ghpvc/?username=gellsonmesquita&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 </li>
 </ul>
   
@@ -47,13 +47,13 @@
   
   <div style="width: 100%; display: flex; flex-direction: row;justify-content: space-between;">
     <span>
-        <a href="https://github.com/gellmesquita">
-            <img height="170" style="display:inline-block, width:50%" alt="gellmesquita" src="https://github-readme-stats.vercel.app/api?username=gellmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=gellmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" style="display:inline-block">
+        <a href="https://github.com/gellsonmesquita">
+            <img height="170" style="display:inline-block, width:50%" alt="gellsonmesquita" src="https://github-readme-stats.vercel.app/api?username=gellsonmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=gellsonmesquita&amp;theme=midnight-purple&amp;show_icons=true&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" style="display:inline-block">
         </a>
     </span>  
     <span>
-        <a href="https://github.com/gellmesquita">
-            <img height="170"  style="display:inline-block, width:50%" alt="gellmesquita" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellmesquita&amp;theme=midnight-purple&amp;layout=compact&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellmesquita&amp;theme=midnight-purple&amp;layout=compact&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" style="display:inline-block">
+        <a href="https://github.com/gellsonmesquita">
+            <img height="170"  style="display:inline-block, width:50%" alt="gellsonmesquita" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellsonmesquita&amp;theme=midnight-purple&amp;layout=compact&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellsonmesquita&amp;theme=midnight-purple&amp;layout=compact&amp;bg_color=0D1117&amp;hide_border=true&amp;count_private=true" style="display:inline-block">
         </a>
     </span>
   </div>
