@@ -13,7 +13,7 @@ I’m a versatile developer with a love for building impactful solutions using m
 - 👯 **Open to Collaboration**: Excited to contribute to open-source projects.
 - 👨‍💻 **Projects**: Check out my work right here on [GitHub](https://github.com/gellsonmesquita).
 - 💬 **Ask Me About**: JavaScript, TypeScript, Dart (Flutter), Java, Kotlin, Node.js, or any coding conundrum!
-- 📫 **Reach Out**: Drop me a line at [iamgelson@gmail.com](mailto:gelsonmesquita90@gmail.com).
+- 📫 **Reach Out**: Drop me a line at [gelsonmesquita90@gmail.com](mailto:gelsonmesquita90@gmail.com).
 - 👀 **Profile Views**:  
   ![Profile Views](https://komarev.com/ghpvc/?username=gellsonmesquita&label=Profile%20views&color=0e75b6&style=flat)
 
