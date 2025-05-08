@@ -26,19 +26,6 @@ I’m a versatile developer with a love for building impactful solutions using m
 
 ---
 
-## 📊 My GitHub Stats
-<div style="display: flex; flex-direction: row; justify-content: space-between; flex-wrap: wrap;">
-  <img height="170" alt="Gelson's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gellsonmesquita&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" style="max-width: 48%;">
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gellsonmesquita&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" style="max-width: 48%;">
-</div>
-
----
-
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gellsonmesquita&theme=onedark&no-frame=true&margin-w=15)
-
----
-
 ## 📫 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/gellmesquita/" target="_blank">
