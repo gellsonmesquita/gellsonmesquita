@@ -20,9 +20,9 @@ I’m a versatile developer with a love for building impactful solutions using m
 ---
 
 ## 📚 My Tech Stack
-- **Frontend**: JavaScript, TypeScript, React, Next.js, Angular, React Native
-- **Mobile**: Dart (Flutter), Kotlin
-- **Backend**: Java, Spring, Node.js
+- **Frontend**: JavaScript, TypeScript, React, Next.js, Angular, Vue js
+- **Mobile**: Dart (Flutter), React Native, Java, Kotlin, 
+- **Backend**: Java (Spring), Php (Laravel), Node.js
 
 ---
 
