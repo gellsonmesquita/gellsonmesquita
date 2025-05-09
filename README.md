@@ -31,9 +31,6 @@ I’m a versatile developer with a love for building impactful solutions using m
   <a href="https://www.linkedin.com/in/gellmesquita/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-circle&logo=Linkedin&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/iamgelson" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/-Facebook-blue?style=flat-circle&logo=Facebook&logoColor=white">
-  </a>
   <a href="mailto:gelsonmesquita90@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white">
   </a>
