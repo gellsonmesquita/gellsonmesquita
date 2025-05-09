@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Gelson Mesquita!
 
-```Software Developer```
+```Software Enginner```
 
 ---
 
