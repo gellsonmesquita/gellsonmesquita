@@ -1,14 +1,14 @@
 <h1 align="center">Hey there 👋, I'm Gelson Mesquita!</h1>
 
 <p align="center">
-  <em>💻 Software Engineer | 🚀 Tech Enthusiast | 🌍 Open-Source Collaborator</em>
+  <em>💻 Software Developer | 🚀 Tech Enthusiast | 🌍 Open-Source Collaborator</em>
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 👨‍💻 **Software Engineer** passionate about creating impactful and scalable solutions.
+- 👨‍💻 **Software Developer** passionate about creating impactful and scalable solutions.
 - 🌍 I love contributing to **open-source** and learning new technologies.
 - 🤝 Always open to **collaborations**, freelance opportunities, or just a good dev chat!
 - 💬 Ask me about: `JavaScript`, `TypeScript`, `Flutter`, `Java`, `Node.js`, `Laravel`, and more!
