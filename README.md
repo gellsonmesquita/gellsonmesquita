@@ -14,22 +14,6 @@
 - 💬 Ask me about: `JavaScript`, `TypeScript`, `Flutter`, `Java`, `Node.js`, `Laravel`, and more!
 - 📫 Reach me at: [gelsonmesquita90@gmail.com](mailto:gelsonmesquita90@gmail.com)
 
----
-
-## 📚 My Tech Stack
-- **Frontend**: JavaScript, TypeScript, React, Next.js, Angular, Vue js
-- **Mobile**: Dart (Flutter), React Native, Java, Kotlin, 
-- **Backend**: Java (Spring), Php (Laravel), Node.js
-
----
-
-## 📌 Projects
-
-🔗 Check out my projects right here on [GitHub](https://github.com/gellsonmesquita)!  
-From mobile apps to backend APIs, I love tackling real-world problems with clean, scalable code.
-
----
-
 ## 📫 Let's Connect
 
 <p>
