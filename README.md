@@ -1,6 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Gelson Mesquita!</h1>
+<h1 align="start">Hey there 👋, I'm Gelson Mesquita!</h1>
 
-<p align="center">
+<p align="start">
   <em>💻 Software Developer | 🚀 Tech Enthusiast | 🌍 Open-Source Collaborator</em>
 </p>
 
