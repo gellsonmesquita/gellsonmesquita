@@ -1,9 +1,3 @@
-<h1 align="center">Hey there 👋, I'm Gelson Mesquita!</h1>
-
----
-
-## 🌟 About Me
-
 - 👨‍💻 **Software Developer** passionate about creating impactful and scalable solutions.
 - 🌍 I love contributing to **open-source** and learning new technologies.
 - 🤝 Always open to **collaborations**, freelance opportunities, or just a good dev chat!
